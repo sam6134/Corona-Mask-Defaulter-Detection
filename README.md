@@ -24,8 +24,9 @@ python3 run.py
 Open [localhost:5000](http://127.0.0.1:5000/) in the browser
 ### Results
 <p align="center">
- <img src="" width="264" alt="Screenshot"/>
-  <img src="" width="264" alt="Screenshot"/>
+ <img src="https://github.com/sam6134/Corona-Mask-Defaulter-Detection/blob/master/results/Screen%20Shot%202020-05-06%20at%202.56.43%20PM.png" width="264" alt="Screenshot"/>
+  <img src="https://github.com/sam6134/Corona-Mask-Defaulter-Detection/blob/master/results/Screen%20Shot%202020-05-06%20at%202.57.06%20PM.png" width="264" alt="Screenshot"/>
+ </p>
   
 ### License
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" width="80" />
